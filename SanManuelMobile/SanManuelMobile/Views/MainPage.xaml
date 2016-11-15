@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SanManuelMobile.Core.Views.MainPage" Title="San Manuel Applications">
+	<ContentPage.ToolbarItems>
+		<ToolbarItem Text="Logout"  Command="{Binding Path=LogoutCommand}"  />
+	</ContentPage.ToolbarItems>
+  
+	<ContentPage.Content>
+    <ScrollView   Padding="0,0,0,0">
+      <StackLayout VerticalOptions="FillAndExpand"
+          Padding="0,20,0,0"
+          BackgroundColor="Black"
+         Spacing="20">
+         
+        <StackLayout  Padding="0,100,0,0" Orientation="Vertical"  HorizontalOptions="Center" VerticalOptions="Center" >
+           <Button x:Name="NovotusButton"  Image="/Resources/Novotus.png" Command="{Binding Path=NevotusCommand}"/>
+           <Button x:Name="LawsonButton"  Image="/Resources/Lawson.png"  Command="{Binding Path=LawsonCommand}"  />
+        </StackLayout>
+      </StackLayout>
+      </ScrollView>
+       
+	</ContentPage.Content>
+</ContentPage>

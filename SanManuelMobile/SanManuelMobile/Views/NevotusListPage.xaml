@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SanManuelMobile.Core.Converters;assembly=SanManuelMobile.Core"
+             xmlns:beh="clr-namespace:SanManuelMobile.Core.Behaviors;assembly=SanManuelMobile.Core"
+             x:Class="SanManuelMobile.Core.Views.NovotusListPage">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <local:SelectedItemEventArgsToSelectedItemConverter x:Key="SelectedItemConverter" />
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Logout"  Command="{Binding Path=LogoutCommand}"  />
+  </ContentPage.ToolbarItems>
+  <StackLayout Orientation="Vertical" BackgroundColor="Black">
+      <ListView x:Name="listView" ItemsSource="{Binding NovotusListModel}" HasUnevenRows="True">
+        <ListView.Behaviors>
+          <beh:ListViewSelectedItemBehavior Command="{Binding Path=CurrentSelectedItemCommand}" Converter="{StaticResource SelectedItemConverter}" />
+          <!--				<local:EventToCommandBehavior EventName="ItemSelected" Command="{Binding OutputAgeCommand}" Converter="{StaticResource SelectedItemConverter}" />-->
+        </ListView.Behaviors>
+       <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+         
+            <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand" BackgroundColor="#FFA733">
+              <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                <Image WidthRequest="44" HeightRequest="44" Source="/Resources/PO.png"/>
+                <Label Text="{Binding WorkFlowName}" VerticalTextAlignment="Center" TextColor="Blue" FontAttributes="Bold" />
+              </StackLayout>
+              <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                <Label Text="Step Name " TextColor="Black" />
+                <Label Text="{Binding StepName}" VerticalTextAlignment="Center" Font="Medium" TextColor="Black" />
+              </StackLayout>
+              <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                <Label Text="Owner "  TextColor="Black"/>
+                <Label Text="{Binding StepOwner}" VerticalTextAlignment="Center" Font="Medium" TextColor="Black"/>
+              </StackLayout>
+             </StackLayout>
+           </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+    
+
+    <StackLayout Orientation="Vertical"
+             Padding="30,10,30,10"
+             HeightRequest="20"
+             BackgroundColor="Black"
+             VerticalOptions="Center"
+             Opacity="0.5">
+      <Label Text="© Copyright 2016   San Manuel   All Rights Reserved "
+             HorizontalTextAlignment="Center"
+             VerticalOptions="Center"
+             HorizontalOptions="Center" />
+    </StackLayout>
+  </StackLayout>
+
+</ContentPage>

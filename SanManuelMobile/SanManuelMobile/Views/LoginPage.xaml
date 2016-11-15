@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SanManuelMobile.Core.Views.LoginPage">
+  <ContentPage.ToolbarItems>
+   <ToolbarItem Text="Sign Up" Command="{Binding Path=SignUpCommand}" />
+  </ContentPage.ToolbarItems>
+  <ContentPage.Content>
+    <ScrollView   Padding="0,0,0,0">
+      <StackLayout VerticalOptions="FillAndExpand"
+          Padding="0,20,0,0"
+          BackgroundColor="Black"
+         Spacing="20">
+         <Label
+           Text="Log in with San Manuel Account"
+           TextColor="White"
+           HorizontalOptions="Center"/>
+        <Image Source="/Resources/logo.png" />
+        <StackLayout
+           HorizontalOptions="StartAndExpand"
+           Spacing="0" >
+          <Entry x:Name="usernameEntry"
+             Placeholder="Email Address"
+             TextColor="White" BackgroundColor="Black"  
+             PlaceholderColor="White" WidthRequest = "300"  HorizontalOptions="LayoutOptions.Start"
+             Text="{Binding Username,Mode=TwoWay}"   
+           />
+          <Entry x:Name="passwordEntry" IsPassword="true" TextColor="White" PlaceholderColor="White"
+             Placeholder="Password" BackgroundColor="Black"  WidthRequest = "300"  
+             HorizontalOptions="LayoutOptions.Start" 
+             Text="{Binding Password,Mode=TwoWay}" />
+        </StackLayout>
+
+        <StackLayout
+         Orientation="Horizontal"
+         HorizontalOptions="Center"
+         Spacing="30">
+          <Button
+             x:Name="buttonCancel"
+             Text="Cancel"
+             TextColor="White"
+             BackgroundColor="#FFA733"
+             BorderRadius="15"
+             BorderColor="White"
+             BorderWidth="2"
+             HeightRequest="40"
+             WidthRequest="150"
+             Command="{Binding Path=CancelCommand}"/>
+          <Button
+             x:Name="buttonLogin"
+             Text="Log in"
+             TextColor="White"
+             BackgroundColor="#FFA733"
+             BorderRadius="15"
+             HeightRequest="40"
+             WidthRequest="150"
+             Command="{Binding Path=UserLoginCommand}" />
+        </StackLayout>
+        <Button
+           x:Name="buttonForgot"
+           Text="Forgot your password?"
+           TextColor="White"
+           BackgroundColor="Transparent"/>
+
+        <Label x:Name="messageLabel" TextColor="White" Text="{Binding Message,Mode=TwoWay}"/>
+
+
+      </StackLayout>
+
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

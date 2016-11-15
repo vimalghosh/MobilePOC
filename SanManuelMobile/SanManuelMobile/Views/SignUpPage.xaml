@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SanManuelMobile.Core.Views.SignUpPage">
+  <ContentPage.Content>
+    <ScrollView   Padding="0,0,0,0">
+      <StackLayout VerticalOptions="FillAndExpand"
+        Padding="0,50,0,0"
+        BackgroundColor="Black"
+        Spacing="20">
+        <Entry x:Name="emailEntry" IsPassword="false" TextColor="White" PlaceholderColor="White"
+             Placeholder="Email Address" BackgroundColor="Black"  />
+        <Entry x:Name="passwordEntry" IsPassword="true" TextColor="White" PlaceholderColor="White"
+             Placeholder="Password" BackgroundColor="Black"  />
+        <Entry x:Name="confirmpasswordEntry" IsPassword="false" TextColor="White" PlaceholderColor="White"
+             Placeholder="Confirm Password" BackgroundColor="Black"  />
+
+
+        <StackLayout
+         Orientation="Horizontal"
+         HorizontalOptions="FillAndExpand"
+         Spacing="30">
+          <Button
+             x:Name="buttonCancel"
+             Text="Cancel"
+             TextColor="White"
+             BackgroundColor="#FFA733"
+             BorderRadius="15"
+             BorderColor="White"
+             BorderWidth="2"
+             HeightRequest="40"
+             WidthRequest="150"/>
+          <Button
+             x:Name="buttonSignUp"
+             Text="Sign Up"
+             TextColor="White"
+             BackgroundColor="#FFA733"
+             BorderRadius="15"
+             HeightRequest="40"
+             WidthRequest="150"
+             Clicked="OnSignUpButtonClicked" />
+        </StackLayout>
+
+
+        <Label x:Name="messageLabel" TextColor="White" />
+
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+  
+  
+</ContentPage>

@@ -1,0 +1,2 @@
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.UWP\SanManuelMobile.UWP.csproj;x86
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile\SanManuelMobile.csproj;neutral

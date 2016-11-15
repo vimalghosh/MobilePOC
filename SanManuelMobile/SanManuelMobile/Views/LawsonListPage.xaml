@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SanManuelMobile.Core.Views.LawsonListPage">
+  <StackLayout Orientation="Vertical" BackgroundColor="White">
+
+    <ListView x:Name="LawsonListView"
+          ItemsSource="{Binding LawsonListModel}"
+          HasUnevenRows="True">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <Grid Padding="10" RowSpacing="10" ColumnSpacing="5">
+              <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+              </Grid.RowDefinitions>
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+              </Grid.ColumnDefinitions>
+
+              <Img Source="/Resources/icon.png"
+                 HeightRequest="66"
+                 Aspect="AspectFill"
+                 WidthRequest="66"
+                 Grid.RowSpan="2"
+               />
+              <Label Grid.Column="1"
+                 Text="{Binding Requestor}"
+                 TextColor="#24e97d"
+                 FontSize="24"/>
+
+              <Label Grid.Column="1"
+                      Grid.Row="1"
+                       Text="{Binding OrderNo}"
+                       TextColor="White"
+                       FontSize="18"
+                       Opacity="0.6"/>
+
+              <Label Grid.Column="1"
+                  Grid.Row="2"
+                  Text="{Binding RequestDescription}"
+                   TextColor="White"
+                   FontSize="18"
+                   Opacity="0.6"/>
+            </Grid>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+
+    </ListView>
+
+
+    <StackLayout Orientation="Vertical"
+             Padding="30,10,30,10"
+             HeightRequest="20"
+             BackgroundColor="#24e97d"
+             VerticalOptions="Center"
+             Opacity="0.5">
+      <Label Text="© Copyright 2016   SMESOFT.COM.PH   All Rights Reserved "
+             HorizontalTextAlignment="Center"
+             VerticalOptions="Center"
+             HorizontalOptions="Center" />
+    </StackLayout>
+  </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,11 @@
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\bin\Debug\SanManuelAPITester.exe.config
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\bin\Debug\SanManuelAPITester.exe
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\bin\Debug\SanManuelAPITester.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\bin\Debug\Newtonsoft.Json.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\bin\Debug\Newtonsoft.Json.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\obj\Debug\SanManuelAPITester.csprojResolveAssemblyReference.cache
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\obj\Debug\SanManuelAPITester.Form1.resources
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\obj\Debug\SanManuelAPITester.Properties.Resources.resources
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\obj\Debug\SanManuelAPITester.csproj.GenerateResource.Cache
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\obj\Debug\SanManuelAPITester.exe
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelAPITester\obj\Debug\SanManuelAPITester.pdb

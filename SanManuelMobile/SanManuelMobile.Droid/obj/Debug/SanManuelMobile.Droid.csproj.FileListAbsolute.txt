@@ -1,0 +1,175 @@
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.pdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.apk
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid-Signed.apk
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\FormsViewGroup.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.pdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\SanManuelMobile.Droid.csprojResolveAssemblyReference.cache
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\SanManuelMobile.Droid.dll
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\SanManuelMobile.Droid.pdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\bin\SanManuelMobile.Droid.apk
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\icon1.png
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\values\styles.xml
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\lawson.gif
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\logo.png
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\icon.png
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\novotus.png
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\R.cs.flag
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\uploadflags.txt
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Core.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\SanManuelMobile.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\SanManuelMobile.Droid.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Backup\Mobile\Projects\Xamarin Test\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\SanManuelMobile.Droid.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\SanManuelMobile.Droid.csprojResolveAssemblyReference.cache
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\SanManuelMobile.Droid.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\SanManuelMobile.Droid.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.apk
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid-Signed.apk
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\FormsViewGroup.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Core.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Core.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\bin\SanManuelMobile.Droid.apk
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\values\styles.xml
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\logo.png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\icon.png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\novotus.png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\R.cs.flag
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\uploadflags.txt
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.dll.config
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Core.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Core.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\SanManuelMobile.Core.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\SanManuelMobile.Droid.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\lawson.png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable-hdpi\po.png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\res\drawable\invoice-icon[1].png
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\obj\Debug\SanManuelMobile.Droid.dll.mdb
+C:\Backup\Mobile\Projects\SanManuelMobile\SanManuelMobile\SanManuelMobile.Droid\bin\Debug\SanManuelMobile.Droid.dll.mdb

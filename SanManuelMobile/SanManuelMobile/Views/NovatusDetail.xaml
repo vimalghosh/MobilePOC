@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SanManuelMobile.Core.Views.NovatusDetail">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Logout"  Command="{Binding Path=LogoutCommand}"  />
+  </ContentPage.ToolbarItems>
+  <ContentPage.Content>
+     <ScrollView   Padding="0,0,0,0">
+      <StackLayout VerticalOptions="FillAndExpand" Orientation="Vertical"
+        Padding="0,5,0,0"
+        BackgroundColor="Black"
+       >
+        <StackLayout VerticalOptions="FillAndExpand" Orientation="Horizontal"
+        >
+          <Label  TextColor="White"  Text="Workflow Name"/>
+          <Label  TextColor="White"  Text="{Binding WorkFlowName}"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="FillAndExpand" Orientation="Horizontal"
+         >
+          <Label   TextColor="White"  Text="Workflow Owner"/>
+          <Label   TextColor="White"  Text="{Binding WorkFlowOwner}"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="FillAndExpand" Orientation="Horizontal"
+         >
+          <Label   TextColor="White"  Text="Step Name"/>
+          <Label  TextColor="White"  Text="{Binding StepName}"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="FillAndExpand" Orientation="Horizontal"
+        >
+          <Label  TextColor="White"  Text="Step Ownner"/>
+          <Label  TextColor="White"  Text="{Binding StepOwner}"/>
+        </StackLayout>
+
+        <StackLayout
+         Orientation="Horizontal"
+         HorizontalOptions="FillAndExpand"
+         >
+          <Button
+             x:Name="buttonCancel"
+             Text="Cancel"
+             TextColor="White"
+             BackgroundColor="#FFA733"
+             BorderRadius="15"
+             BorderColor="White"
+             BorderWidth="2"
+             HeightRequest="40"
+             WidthRequest="75"
+             Command="{Binding Path=CancelCommand}"/>
+          <Button
+             x:Name="buttonApprove"
+             Text="Approve"
+             TextColor="White"
+             BackgroundColor="#FFA733"
+             BorderRadius="15"
+             HeightRequest="40"
+             WidthRequest="75"
+               Command="{Binding Path=ApproveCommand}" />
+          <Button
+            x:Name="buttonDeny"
+            Text="Deny"
+            TextColor="White"
+            BackgroundColor="#FFA733"
+            BorderRadius="15"
+            HeightRequest="40"
+            WidthRequest="75"
+            Command="{Binding Path=DenyCommand}" />
+        </StackLayout>
+
+
+        <Label x:Name="messageLabel" TextColor="White" Text="{Binding Message}"/>
+
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+  
+  
+</ContentPage>
